@@ -68,7 +68,7 @@ Install the Java SE Development Kit and Eclipse IDE for Java Developers.
 
 1. Clone the repo.
     ```sh
-    git clone https://github.com/mrees791/lab-doctor-sim.git
+    git clone https://github.com/mrees382/lab-doctor-sim.git
     ```
 2. In Eclipse, select file, import, then select Existing Projects into Workspace.
 3. In the Import Projects wizard, click Browse... next to the Select root directory option.
@@ -80,6 +80,6 @@ After starting the program, you will need to select a patient file. A patient fi
 <!-- CONTACT -->
 ## Contact
 
-Michael Rees - mrees791@gmail.com
+Michael Rees - mrees382@gmail.com
 
-Project Link: [https://github.com/mrees791/lab-doctor-sim](https://github.com/mrees791/lab-doctor-sim)
+Project Link: [https://github.com/mrees382/lab-doctor-sim](https://github.com/mrees382/lab-doctor-sim)
